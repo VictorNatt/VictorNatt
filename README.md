@@ -3,7 +3,6 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Olá! Me chamo Victor Natã, sou estudante do 3º ano do curso técnico em Informática na EEEP e apaixonado por tecnologia, desenvolvimento de software e aprendizado contínuo. Atualmente, estou me preparando para ingressar no mercado de trabalho como desenvolvedor full stack, com base sólida em linguagens como Java, Python, HTML, CSS e JavaScript. Tenho maior familiaridade com o back-end usando Java e Python, e também já trabalhei com PostgreSQL, realizando integrações com Java em projetos práticos. Sou proativo, calmo, focado, dedicado e pontual. Acredito que o trabalho em equipe se torna mais produtivo quando todos são comprometidos — e é nesse tipo de ambiente que mais gosto de atuar.
 
 
 

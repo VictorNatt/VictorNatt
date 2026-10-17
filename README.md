@@ -1,144 +1,48 @@
-# 👨‍💻 Victor Natã
-
-
-**`Desenvolvedor Full-Stack`**
-
-
-
-
-
----
-
-
-
-
-<p align="left">
-    <a href="https://www.instagram.com/victornata_" target="_blank">
-        <img alt="Instagram" 
-             title="Instagram" 
-             src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-    </a>
-    <a href="https://www.linkedin.com/in/victor-nat%C3%A3-649aa0361/" target="_blank">
-        <img alt="LinkedIn" 
-             title="LinkedIn" 
-             src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-    </a>
-   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
-    <img alt="Gmail" 
-         title="Gmail" 
-         src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-   </a>
-
+<p align="center">
+  <img src="assets/profile-header.svg" alt="Victor Natã — Desenvolvedor em formação" width="100%">
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/victor-nat%C3%A3-649aa0361/">
+    <img src="https://img.shields.io/badge/LinkedIn-conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/VictorNatt">
+    <img src="https://img.shields.io/badge/GitHub-VictorNatt-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
-### **🤖 Linguagens e Tecnologias**
+## Olá! 👋
 
-<img
-    align="left"
-    alt="Java"
-    title="Java"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+Sou Victor Natã. Gosto de entender como as coisas funcionam e transformar ideias em projetos. Estou construindo minha base em programação com prática, estudo e revisão do que desenvolvo.
 
-<img
-    align="left"
-    alt="PostgreSQL"
-    title="PostgreSQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/> 
+### No que estou focando
 
+- Ruby e desenvolvimento web com Rails
+- Lógica de programação, orientação a objetos e testes
+- Construção de aplicações úteis, do banco de dados à interface
 
-<img
-    align="left"
-    alt="SQLite"
-    title="SQLite"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
-/>
-
-
-<img
-    align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-
-<img
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-
-<img
-    align="left"
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-
-<img
-    align="left"
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-
-
-
-            
-          
-
-<br>
-<br>
-
-### Estatísticas 📊
+### Tecnologias
 
 <p>
-    <img 
-        src="https://github-readme-stats.vercel.app/api?username=VictorNatt&show_icons=true&theme=radical&locale=pt-br" 
-        alt="GitHub Stats" 
-        height="234px" 
-        width="416px"
-    />
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorNatt&theme=radical&layout=compact&custom_title=Tecnologias%20Porcentagem&langs_count=7" 
-        alt="Linguagens mais usadas" 
-        height="234px"
-        width="416px"
-    />
+  <img src="https://img.shields.io/badge/Java-em%20pr%C3%A1tica-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-em%20pr%C3%A1tica-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Ruby-estudando-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby">
+  <img src="https://img.shields.io/badge/Rails-estudando-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" alt="Ruby on Rails">
+  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS%20%2F%20JavaScript-web-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML, CSS e JavaScript">
+  <img src="https://img.shields.io/badge/PostgreSQL-banco%20de%20dados-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Git-controle%20de%20vers%C3%A3o-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorNatt/VictorNatt/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorNatt/VictorNatt/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VictorNatt/VictorNatt/output/github-contribution-grid-snake.svg">
-</picture>
+### Projetos em destaque
+
+| Projeto | O que é |
+|:--|:--|
+| [Math Adventure](https://github.com/VictorNatt/Math-Adventure) | Jogo educativo para praticar matemática de forma interativa. |
+| [Projeto Lan House](https://github.com/VictorNatt/ProjetoLanHouse) | Sistema de agendamento de máquinas com Java e PostgreSQL. |
+| [Rails Bookstore](https://github.com/VictorNatt/Rails_Bookstore) | Aplicação Rails para explorar livros e empréstimos. |
+
+---
+
+<p align="center">
+  <sub>Em evolução constante — um commit e um conceito de cada vez.</sub>
+</p>

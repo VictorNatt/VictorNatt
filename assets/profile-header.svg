@@ -1,32 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
   <title id="title">Victor Natã — Desenvolvedor em formação</title>
-  <desc id="desc">Banner escuro com detalhes em roxo e azul para o perfil de Victor Natã.</desc>
+  <desc id="desc">Banner de perfil em azul-marinho, violeta e ciano, com o nome Victor Natã e foco em desenvolvimento de software.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b1020"/>
-      <stop offset="1" stop-color="#171332"/>
+      <stop offset="0" stop-color="#090d1b"/>
+      <stop offset=".58" stop-color="#15132e"/>
+      <stop offset="1" stop-color="#101e32"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset=".55" stop-color="#8b5cf6"/>
       <stop offset="1" stop-color="#38bdf8"/>
     </linearGradient>
     <radialGradient id="glow">
-      <stop offset="0" stop-color="#8b5cf6" stop-opacity=".28"/>
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity=".32"/>
       <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
     </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#c4b5fd" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
   </defs>
-  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
-  <circle cx="1020" cy="70" r="300" fill="url(#glow)"/>
-  <g fill="none" stroke="#ffffff" stroke-opacity=".08">
-    <path d="M0 250 250 0M100 320 420 0M850 320 1170 0"/>
-    <circle cx="1020" cy="160" r="110"/>
-    <circle cx="1020" cy="160" r="150"/>
+  <rect width="1200" height="340" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="26" fill="url(#grid)"/>
+  <circle cx="1010" cy="155" r="290" fill="url(#glow)"/>
+  <g fill="none" stroke="#dbeafe" stroke-opacity=".09">
+    <path d="M0 265 270 0M95 340 430 0M790 340 1125 0"/>
+    <circle cx="1000" cy="164" r="99"/>
+    <circle cx="1000" cy="164" r="137"/>
+    <circle cx="1000" cy="164" r="175"/>
   </g>
-  <rect x="72" y="66" width="6" height="188" rx="3" fill="url(#accent)"/>
-  <text x="108" y="145" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">Victor Natã</text>
-  <text x="110" y="194" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="25">Desenvolvedor em formação</text>
-  <text x="110" y="238" fill="#a5b4fc" font-family="Segoe UI, Arial, sans-serif" font-size="19">Aprendendo, construindo e evoluindo um projeto de cada vez.</text>
-  <circle cx="1020" cy="160" r="58" fill="#111827" stroke="url(#accent)" stroke-width="3"/>
-  <text x="1020" y="174" text-anchor="middle" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">VN</text>
-  <rect x="0" y="312" width="1200" height="8" rx="4" fill="url(#accent)"/>
+  <rect x="72" y="62" width="6" height="214" rx="3" fill="url(#accent)"/>
+  <text x="108" y="127" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-.8">Victor Natã</text>
+  <rect x="110" y="151" width="244" height="32" rx="16" fill="#8b5cf6" fill-opacity=".16" stroke="#a78bfa" stroke-opacity=".35"/>
+  <circle cx="128" cy="167" r="4" fill="#38bdf8"/>
+  <text x="142" y="173" fill="#ddd6fe" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing=".7">DESENVOLVEDOR EM FORMAÇÃO</text>
+  <text x="110" y="220" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="22">Backend, aplicações web e aprendizado contínuo</text>
+  <text x="110" y="258" fill="#a5b4fc" font-family="Segoe UI, Arial, sans-serif" font-size="18">Recuperando autonomia no código, um problema de cada vez.</text>
+  <circle cx="1000" cy="164" r="57" fill="#0d1427" stroke="url(#accent)" stroke-width="3"/>
+  <circle cx="1000" cy="164" r="47" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
+  <text x="1000" y="178" text-anchor="middle" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="41" font-weight="700">VN</text>
+  <rect x="0" y="332" width="1200" height="8" rx="4" fill="url(#accent)"/>
 </svg>

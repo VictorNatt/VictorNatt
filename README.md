@@ -11,9 +11,9 @@
 
 ## Olá, eu sou o Victor 👋
 
-Sou desenvolvedor em formação e estudante de Informática. Minha trajetória inclui o curso técnico na EEEP e projetos de estudo em desenvolvimento web e back-end. Tenho uma base prática em Java e Python, já trabalhei com PostgreSQL e gosto de aprender construindo coisas que resolvem problemas.
+Sou desenvolvedor em formação e minha base vem do curso técnico em Informática na EEEP. Estou me preparando para atuar como desenvolvedor full-stack, com maior afinidade pelo back-end. Tenho experiência prática de estudo com Java e Python, já integrei projetos a bancos PostgreSQL e também desenvolvi páginas com HTML, CSS e JavaScript.
 
-Gosto de trabalhar em equipe, manter a organização e entender o porquê das decisões no código.
+Sou proativo, calmo, focado, dedicado e pontual. Gosto de trabalhar em equipe e de entender o porquê das decisões no código, não apenas fazê-lo funcionar.
 
 ### Meu objetivo agora
 
